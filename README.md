@@ -34,7 +34,7 @@ sudo useradd user3
 ### ls -latr
 <img width="1200" height="206" alt="Screenshot 2025-08-28 at 9 36 34 pm" src="https://github.com/user-attachments/assets/7daa1b3d-f8bb-4527-a468-fa270f91a978" />
 
-### ./my_first_shell_script.sh
+### Run this command to show up the permision denied ./my_first_shell_script.sh
 
 <img width="848" height="108" alt="Screenshot 2025-08-28 at 9 49 51 pm" src="https://github.com/user-attachments/assets/955cc909-7352-46f9-bc76-64decce438e5" />
 
