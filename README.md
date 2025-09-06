@@ -39,6 +39,11 @@ sudo useradd user3
 <img width="848" height="108" alt="Screenshot 2025-08-28 at 9 49 51 pm" src="https://github.com/user-attachments/assets/955cc909-7352-46f9-bc76-64decce438e5" />
 
 
+write command Echo John is going to simply out the name Called John
+
+<img width="833" height="270" alt="Screenshot 2025-09-07 at 12 50 30 am" src="https://github.com/user-attachments/assets/25fbca95-d794-4b4f-bfb5-d369f7ae670b" />
+
+
 
 
 
