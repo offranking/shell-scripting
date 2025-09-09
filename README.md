@@ -38,7 +38,7 @@ sudo useradd user3
 
 <img width="848" height="108" alt="Screenshot 2025-08-28 at 9 49 51 pm" src="https://github.com/user-attachments/assets/955cc909-7352-46f9-bc76-64decce438e5" />
 
-### now we need to give the permision to the file called ./my_first_shell_script.sh
+### now we need to give the permision to the file called ./my_first_shell_script.sh once the permission is granted the the part on the file will be green color
 
 <img width="856" height="61" alt="Screenshot 2025-09-09 at 2 33 14 pm" src="https://github.com/user-attachments/assets/b26417ad-224d-49f5-b717-c518baf85bc2" />
 
