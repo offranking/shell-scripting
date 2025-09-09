@@ -40,8 +40,9 @@ sudo useradd user3
 
 
 write command Echo John is going to simply out the name Called John
+<img width="994" height="121" alt="Screenshot 2025-09-09 at 2 45 55 pm" src="https://github.com/user-attachments/assets/6cad3749-3fbc-4db8-9844-2528c8d66e07" />
 
-<img width="833" height="270" alt="Screenshot 2025-09-07 at 12 50 30 am" src="https://github.com/user-attachments/assets/25fbca95-d794-4b4f-bfb5-d369f7ae670b" />
+
 
 
 
